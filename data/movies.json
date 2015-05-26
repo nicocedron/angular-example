@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Captain America",
+    "year": 2012,
+    "sinopsis": "Lorem ipsum dolor sit amet."
+  },
+  {
+    "id": 2,
+    "title": "Captain America 2",
+    "year": 2014,
+    "sinopsis": "Lorem ipsum dolor sit amet."
+  },
+  {
+    "id": 3,
+    "title": "Hulk",
+    "year": 2014,
+    "sinopsis": "Lorem ipsum dolor sit amet."
+  },
+  {
+    "id": 4,
+    "title": "Avengers",
+    "year": 2014,
+    "sinopsis": "Lorem ipsum dolor sit amet."
+  }
+]

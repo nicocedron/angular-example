@@ -1,0 +1,12 @@
+<input type="text" placeholder="Filter..." ng-model="search_text">
+
+<div>
+  <ul>
+    <li ng-repeat="movie in movies | filter:search_text">
+      <h2>{{movie.title}}</h2>
+      <h5>{{movie.year}}</h5>
+      <small>{{movie.sinopsis}}</small>
+      <a href="#/movie/{{movie.id}}">View</a>
+    </li>
+  </ul>
+</div>
